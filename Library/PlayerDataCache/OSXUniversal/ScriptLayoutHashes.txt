@@ -1,6 +1,6 @@
 OSXStandalone
 PlayerPath?
-C:/Users/53933/Documents/Cours CSUSM/Game Programming/RollABall/Builds/Mac.app
+C:/Users/53933/Documents/Cours CSUSM/Game Programming/RollABall/Builds.app
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/MiniGame.unity
